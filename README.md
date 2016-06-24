@@ -1,4 +1,4 @@
 Personal-Projects
 =================
 
-My little side projects
+My side project
